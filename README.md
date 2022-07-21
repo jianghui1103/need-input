@@ -2,4 +2,4 @@
 
 > 尝试打包成npm
 
-[demo演示盐业](https://jianghui1103.github.io/need-input/dist/#/)
+[demo演示盐业](https://jianghui1103.github.io/need-input/dist/index.html)
